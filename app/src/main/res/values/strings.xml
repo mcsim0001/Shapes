@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Draw Basic Shapes</string>
+
+    <string name="btn_positive">Yes</string>
+    <string name="btn_negative">Maybe, next time</string>
+    <string name="dialog_title">Please, rate this app</string>
+
+</resources>

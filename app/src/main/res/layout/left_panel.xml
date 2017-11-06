@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/left_panel"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/left_panel_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="left|start"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <!--<ImageView
+                android:id="@+id/imageView"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                app:srcCompat="@drawable/pensil1" />
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="80sp"
+                android:layout_height="50sp"
+                app:srcCompat="@drawable/pensil1_sel" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                app:srcCompat="@drawable/pensil2" />
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="80sp"
+                android:layout_height="50sp"
+                android:layout_weight="0.51"
+                app:srcCompat="@drawable/pensil3" />
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="80sp"
+                android:layout_height="50sp"
+                app:srcCompat="@drawable/pensil4" />
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="80sp"
+                android:layout_height="50sp"
+                app:srcCompat="@drawable/pensil4_sel" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                android:background="@drawable/pane_background_2x2"
+                app:srcCompat="@drawable/pensil1" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                app:srcCompat="@drawable/pensil2" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                app:srcCompat="@drawable/pensil1" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                app:srcCompat="@drawable/pensil2" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                app:srcCompat="@drawable/pensil1" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                app:srcCompat="@drawable/pensil2" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                app:srcCompat="@drawable/pensil1" />
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_gravity="left|start"
+                app:srcCompat="@drawable/pensil2" />-->
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#757575</color>
+    <color name="yellow">#ffea00</color>
+    <color name="orange">#ff6d00</color>
+    <color name="green">#388e3c</color>
+    <color name="light_blue">#29b6f6</color>
+    <color name="dark_blue">#0601ff</color>
+    <color name="purple">#d500f9</color>
+    <color name="red">#d50000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="text_color">#8e000000</color>
+    <color name="default_selected_color">#ffffff</color>
+    <color name="brush1">#ffffff</color>
+    <color name="brush2">#000000</color>
+    <color name="brush3">#757575</color>
+    <color name="brush4">#000b7e</color>
+    <color name="brush5">#0601ff</color>
+    <color name="brush6">#80d8ff</color>
+    <color name="brush7">#1b5e20</color>
+    <color name="brush8">#00e676</color>
+    <color name="brush9">#ffea00</color>
+    <color name="brush10">#ff8f00</color>
+    <color name="brush11">#d50000</color>
+    <color name="brush12">#e040fb</color>
+    <color name="brush13">#f8bbd0</color>
+    <color name="brush14">#5d4037</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
